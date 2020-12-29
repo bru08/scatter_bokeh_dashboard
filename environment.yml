@@ -1,0 +1,11 @@
+name: bokeh_dash
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - bokeh
+  - umap-learn
+  - pandas
+  - hdbscan
+  - pylint
+prefix: /Users/brown08/opt/anaconda3/envs/bokeh_dash
